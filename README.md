@@ -1,2 +1,2 @@
 # automating-aws-with-python
-Repository for automating AWS with Python
+Date- 06/26/2020 - Repository for Automating AWS with Python scripting.
